@@ -23,10 +23,12 @@ _A responsive HTML website for a premium fitness club, featuring a video hero, i
 
 **Gym Fitness** is a visually engaging, responsive HTML website for a modern fitness club. The homepage features a dynamic video hero, interactive class schedule, animated buttons, and sections for membership plans, certified trainers, transformation gallery, workout video library, nutrition blog, and testimonials. The design leverages Tailwind CSS for rapid styling, Font Awesome for icons, and custom CSS for unique effects. All content is static and easy to customize.
 
-![Demo GIF](screenshots/1.gif)
-![Demo GIF](screenshots/2.gif)
-![Demo GIF](screenshots/3.gif)
-![Demo GIF](screenshots/4.gif)
+<br> 
+<p align="center">
+  <img src="screenshots/1.gif" width="90%">
+</p>
+<br>
+
 
 ## ✨ Key Features
 
@@ -47,11 +49,16 @@ _A responsive HTML website for a premium fitness club, featuring a video hero, i
 _Screenshots of: the Gym Fitness homepage with video hero, class schedule, trainer cards, transformation gallery, workout video library, blog, testimonials, and footer._
 
 <p align="center">
-  <img src="screenshots/1.jpg" width="300"/>
-  <img src="screenshots/2.jpg" width="300"/>
-  <img src="screenshots/3.jpg" width="300"/>
-  <img src="screenshots/4.jpg" width="300"/>
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
 </p>
+
 
 ## 🛠️ Technical Stack & Requirements
 
